@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Public+id+CloNing_Working%E2%9C%85;I'm+Siyam+Okay+Bro%F0%9F%98%B1)](https://git.io/typing-svg)
 
-https://github.com/Siyam-807/Siyam-v0.5
+git clone https://github.com/Siyam-807/Siyam-v0.5
 
 cd 
 
